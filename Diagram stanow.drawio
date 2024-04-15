@@ -1,0 +1,161 @@
+<mxfile host="app.diagrams.net" modified="2024-04-15T09:36:53.401Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="pDsVvhB9S1D1skeN8MU1" version="24.2.3" type="github">
+  <diagram name="Strona-1" id="7wKOVUTTL5PYVjsPgpP4">
+    <mxGraphModel dx="996" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tftcEsWFE59XAu1NzmvE-1" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="690" y="150" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="190" y="190" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" source="tftcEsWFE59XAu1NzmvE-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="291" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tftcEsWFE59XAu1NzmvE-17" target="tftcEsWFE59XAu1NzmvE-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="310" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="345" y="450" />
+              <mxPoint x="440" y="450" />
+              <mxPoint x="440" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="tftcEsWFE59XAu1NzmvE-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="265" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-8" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Wylądowanie&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=1;arcSize=28;" parent="1" vertex="1">
+          <mxGeometry x="230" y="320" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-10" value="dajwize()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="tftcEsWFE59XAu1NzmvE-11" target="tftcEsWFE59XAu1NzmvE-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-11" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Wylądowanie na ziemi&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=1;arcSize=28;" parent="1" vertex="1">
+          <mxGeometry x="510" y="260" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-14" value="decyzja o powrocie/powrot()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="440" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-16" value="przedluzenie wizy [lmaksymalna dlugosc jeszcze 3 miesiace]/ dajwize" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="170" y="585" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="tftcEsWFE59XAu1NzmvE-17" target="tftcEsWFE59XAu1NzmvE-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="275" y="580" />
+              <mxPoint x="170" y="580" />
+              <mxPoint x="170" y="515" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="tftcEsWFE59XAu1NzmvE-17" target="tftcEsWFE59XAu1NzmvE-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tftcEsWFE59XAu1NzmvE-17" target="tftcEsWFE59XAu1NzmvE-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tftcEsWFE59XAu1NzmvE-17" target="tftcEsWFE59XAu1NzmvE-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tftcEsWFE59XAu1NzmvE-17" target="tftcEsWFE59XAu1NzmvE-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="275" y="730" />
+              <mxPoint x="200" y="730" />
+              <mxPoint x="200" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-17" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;legalne przebywanie początkowe&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=1;arcSize=28;" parent="1" vertex="1">
+          <mxGeometry x="240" y="500" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-22" value="when(mija wiza))/powrot()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="414" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="tftcEsWFE59XAu1NzmvE-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="575" y="610" as="sourcePoint" />
+            <mxPoint x="620" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tftcEsWFE59XAu1NzmvE-27" target="tftcEsWFE59XAu1NzmvE-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-27" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;nielegalne przebywanie (nielegalny imigrant)&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=1;arcSize=28;" parent="1" vertex="1">
+          <mxGeometry x="430" y="580" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-28" value="nielegalne pozostanie" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-32" value="zlapanie/deportuj()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="620" y="470" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tftcEsWFE59XAu1NzmvE-33" target="tftcEsWFE59XAu1NzmvE-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tftcEsWFE59XAu1NzmvE-33" target="tftcEsWFE59XAu1NzmvE-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-33" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Stały pobyt na planecie&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=1;arcSize=28;" parent="1" vertex="1">
+          <mxGeometry x="274" y="740" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-37" value="wystąpienie o status uchodzcy[udowodnienie przesladowania]/przydzielstatusuchodzcy()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="660" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tftcEsWFE59XAu1NzmvE-38" target="tftcEsWFE59XAu1NzmvE-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="tftcEsWFE59XAu1NzmvE-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="344" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-38" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Obywatel marsa&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=1;arcSize=28;" parent="1" vertex="1">
+          <mxGeometry x="274" y="900" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-40" value="after(5 lata)[brak konfliktu z prawem]/nadaj obywatelstwo()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="354" y="830" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-42" value="poslubienie ufoludka/nadaj obywatelstwo()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="230" y="840" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-44" value="poslubienie ufoludka/nadaj obywatelstwo()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="510" y="790" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-46" value="poslubienie ufoludka/nadaj obywatelstwo()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="830" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-50" value="decyzja o powrocie[brak zrzeczenia sie obywatelstwa ziemi]/powrot()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="540" y="930" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tftcEsWFE59XAu1NzmvE-52" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="329" y="1040" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
