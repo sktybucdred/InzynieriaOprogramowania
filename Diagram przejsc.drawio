@@ -1,9 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T10:42:32.783Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" version="24.2.3" etag="g9sKMPq7-V0GGKO45nbx" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T10:54:05.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="UCgz-YCtC26eezgJGP-V" version="24.2.3" type="github">
   <diagram name="Strona-1" id="-fxRtbeVN-8Kkgm4cTpy">
-    <mxGraphModel>
+    <mxGraphModel dx="996" dy="1694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="26mqnyW2KRLfrzN1cKuV-1" value="Kierownik" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-40" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="26mqnyW2KRLfrzN1cKuV-4" value=":Analiza" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="128" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="26mqnyW2KRLfrzN1cKuV-8" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="170" width="10" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="26mqnyW2KRLfrzN1cKuV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;dashed=1;" edge="1" parent="1" source="26mqnyW2KRLfrzN1cKuV-10" target="26mqnyW2KRLfrzN1cKuV-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="95" y="154" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="26mqnyW2KRLfrzN1cKuV-10" value="" style="line;strokeWidth=2;direction=south;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="90" y="40" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="26mqnyW2KRLfrzN1cKuV-12" value="" style="line;strokeWidth=2;direction=south;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="305" y="180" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="26mqnyW2KRLfrzN1cKuV-14" value="&amp;lt;&amp;lt;create&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="128" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="26mqnyW2KRLfrzN1cKuV-15" value="1. Analiza()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
